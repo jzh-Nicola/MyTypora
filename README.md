@@ -1,0 +1,2 @@
+# MyTypora
+pthoto
